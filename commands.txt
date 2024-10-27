@@ -1,0 +1,15 @@
+Git clone https://github.com/dijoypcherian/Gitcommands.git
+
+cd Gitcommands
+
+git init
+
+git add .
+
+git commit -m "first commit"
+
+git push -u origin main
+
+Git and github
+
+alternatives : AWS , bit bucket ,gitlab
